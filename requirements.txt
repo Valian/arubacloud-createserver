@@ -1,1 +1,2 @@
-pyarubacloud==0.7.1
+pyArubaCloud==0.7
+click
